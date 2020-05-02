@@ -1,2 +1,5 @@
 # diploma
-My diploma work at university
+
+Мой дипломный проект в университете БГУИР
+
+2020
